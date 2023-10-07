@@ -1,0 +1,3 @@
+teach Simeon
+learn c++
+wash
